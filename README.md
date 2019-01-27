@@ -1,8 +1,8 @@
 # SumBook
-Application web de gestion des résumés avec JavaEE Spring Web MVC Framework.
+Web application for managing abstracts with JavaEE Spring Web MVC Framework.<br>
 
-C'est une aplication qui permet aux utilisateurs de créer des comptes et proposer des résumés des livres pour que les autres utilisateur puissent lire ces résumés et décider s'ils veulent acheter le livre pas.
+It's an aplication that allows users to create accounts and offer book summaries so that other users can read these summaries and decide if they want to buy the book.
 
-PS: Travail en binome 
+
 
 
